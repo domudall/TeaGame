@@ -31,8 +31,13 @@ They must collect monies from players, or use the biscuit fund, and buy the bisc
 #### Blank Card
 The blank card reverses the results of a normal tea game, making the player with the highest card lose.
 
-#### Joker
-The player is exempt for the rest of the day, unless they draw a Joker again, causing automatic loss. If a blank card is pulled in the same game that a Joker is pulled, the Joker still exempts the player and they do not lose the game.
+#### Red Joker
+The player is exempt for the rest of the day, unless they draw a Red Joker again, causing automatic loss. If a blank card is pulled in the same game that a Red Joker is pulled, the Red Joker still exempts the player and they do not lose the game.
+
+#### Black Joker
+The player automatically loses the round and makes the next 3 rounds of tea, unless a Red Joker is pulled in the subsequent rounds, or another Black Joker is pulled by a player.
+
+_*Note:* This rule works best with smaller games; over around 5/6 players it becomes unmanagable._
 
 ## Draw
 In what turns out to be, the unlikely event of a draw. the two (or more) players must play a face-off. All cards are returned to the dealer, who shuffles the pack and again fans the cards for the 2 (or more) tied players. They compete (lowest card again loses), this is repeated until a loser is decided.
